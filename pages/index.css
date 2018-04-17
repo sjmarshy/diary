@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 2vh 96vh 2vh;
+
+    background-color: black;
+}
+
+.image {
+    height: 96vh;
+    grid-column: 2;
+    grid-row: 2;
+}
