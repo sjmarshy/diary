@@ -11,3 +11,17 @@
     grid-column: 2;
     grid-row: 2;
 }
+
+.link {
+    cursor: pointer;
+}
+
+.explainer {
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    max-width: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+}
